@@ -1,2 +1,2 @@
 # Code Learning
-Learning Code for Creating Desktop / Smartphone Applications for Best Possible eLearning Development.
+Learning Code for Creating Desktop / Smart-Device Applications for Best Possible eLearning Development.
